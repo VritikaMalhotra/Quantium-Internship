@@ -1,0 +1,2 @@
+# Quantium-Internship
+Data preparation and customer analytics upon data from an Australian local store. Provided insights about the brands of chips they sell. Correlation between brands, categorizing customers accordingly and comparison between trial months. Experimentation and uplift testing. Performed various P value and T value hypothesis test upon cleaned and categorized data. Analytics and commercial application. Built a presentation for the local store vendor based upon insights.
